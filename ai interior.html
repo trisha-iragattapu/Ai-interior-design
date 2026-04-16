@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Interior Design</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Link CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>AI Interior Design</header>
+
+<div class="box">
+  <h3>Upload Empty Room</h3>
+  <input type="file" id="fileInput" accept="image/*">
+
+  <h3>Select Style</h3>
+  <select id="style">
+    <option value="modern">Modern</option>
+    <option value="luxury">Luxury</option>
+    <option value="minimal">Minimal</option>
+  </select>
+
+  <button onclick="generateImage()">Generate Design</button>
+
+  <div class="gallery" id="gallery"></div>
+</div>
+
+<!-- Link JS -->
+<script src="script.js"></script>
+
+</body>
+</html>
