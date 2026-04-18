@@ -25,7 +25,7 @@ ai-interior-design/
 └── README.md         # Project documentation
 ⚙️ How to Run the Project
 # Step 1: Download or clone the repository
-git clone https://github.com/your-username/ai-interior-design.git
+git clone https://github.com/trisha-iragattapu/ai-interior-design.git
 
 # Step 2: Open project folder
 cd ai-interior-design
@@ -52,7 +52,6 @@ Minimal Interior → Simple and space-efficient layouts
 📱 Mobile app version
 
 Project: AI Interior Design Web App
-Purpose: Academic / Portfolio Project
+Purpose: Academic Project
 📄 License
-
 This project is created for educational purposes only.
